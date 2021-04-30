@@ -1,0 +1,10 @@
+{
+    "name" : "Wise",
+    "description" : "A GNOME beautiful Dictionnary",
+    "shell-version" : [
+        "3.36"
+    ],
+    "url" : "",
+    "uuid" : "wise@oussamaSALAHOUELHADJ.com",
+    "version" : 0.0
+}
